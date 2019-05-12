@@ -1,0 +1,3 @@
+rootProject.name = 'feed_find_3244'
+
+include ':app'

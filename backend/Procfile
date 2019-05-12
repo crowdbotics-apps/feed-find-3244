@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT feed_find_3244.wsgi:application
